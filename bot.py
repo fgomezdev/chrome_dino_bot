@@ -12,7 +12,7 @@ ANCHO_INICIAL_MUESTRA = 170
 # ATENCIÓN: Solo poner GUARDAR_IMAGENES = True para ver los resultados de las imágenes en pruebas,
 # no dejarlo activado para jugar, ya que acumulará muchas imágenes en el directorio imagenes_temp
 # en un breve lapso de tiempo.
-GUARDAR_IMAGENES = True
+GUARDAR_IMAGENES = False
 TEMP_IMAGE_DIR = "./imagenes_temp"
 
 tiempo_de_juego = 0
